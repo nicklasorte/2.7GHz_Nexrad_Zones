@@ -10,6 +10,8 @@ To run the example sim: open this file and press F5: []
 
 You'll need to also download:
 
+nexrad kmz': https://gis.ncdc.noaa.gov/kml/nexrad.kmz
+
 https://github.com/nicklasorte/general_terrestrial_pathloss
 
 https://github.com/nicklasorte/Generic_Bugsplat
